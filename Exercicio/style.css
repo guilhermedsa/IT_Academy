@@ -1,0 +1,24 @@
+#alinhamento{
+    color: rgba(2, 131, 27, 0.992);
+    width:595px;
+    height:742px;
+    margin:auto;
+    position:relative;
+}
+
+h1,h2,h3 {
+    font-family: 
+    Arial;
+    color:brown
+  }
+
+b {
+    color:red
+}
+
+#alinhamento2{
+    width: 295px;
+    height:001px;
+    right: 335px;
+    position:relative;
+}
